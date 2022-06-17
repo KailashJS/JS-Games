@@ -10,7 +10,7 @@
 - Frogger
 - Tetris
 
-Hello WOrld
+Hello WOrld 
 
 # Core JavaScripts Concepts involved are
 
